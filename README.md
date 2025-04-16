@@ -31,3 +31,5 @@ npm run dev
 - Update karyawan: PUT /api/karyawan/:nip
 
 - Nonaktifkan: PATCH /api/karyawan/:nip/deactivate
+
+*Note* Jangan lupa merubah .env.example ke .env
